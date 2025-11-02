@@ -1,0 +1,18 @@
+USER
+
+Open config.json, it is relative to your username/home directory.
+Set location for your Liveries
+Set location where you want to keep your manifest file, with your liveries is most common.
+Set AWS/Download URL where liveries are stored.
+Save config.json
+Run ACCSync.exe
+Click Sync
+
+
+ADMIN
+
+Make sure liveries are all accounted for in zip file format
+Generate manifest file using manifest tools
+Save manifest with liveries
+Make liveries folder downloadable
+Keep manifest file updated either manually or create automated scripting

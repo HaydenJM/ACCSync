@@ -1,0 +1,5 @@
+{
+  "aws_url": "https://your-aws-bucket.s3.amazonaws.com",
+  "docs_path": "Documents/Assetto Corsa Competizione/Customs/Liveries",
+  "local_manifest_path": "Documents/Assetto Corsa Competizione/Customs/Liveries/manifest.json"
+}
