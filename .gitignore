@@ -86,3 +86,6 @@ wheels/
 
 # Generated manifest files (don't commit actual league data)
 manifest-tools/manifest.json
+
+# Claude Code documentation
+CLAUDE.md
